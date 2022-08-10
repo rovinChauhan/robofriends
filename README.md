@@ -1,5 +1,10 @@
 # robofriends
-Tutorial for React
+Create react app made from scratch to search for the robots.
+
+
+
+
+
 To run the project:
 
 1. Clone this repo
