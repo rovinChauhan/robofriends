@@ -1,5 +1,6 @@
 # robofriends
 Create react app made from scratch to search for the robots.
+Tech used JavaScript
 
 
 
